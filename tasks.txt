@@ -1,0 +1,38 @@
+Liczba przesunięć głowicy dla n = 100, czas pracy = 1000, wielkość dysku = 180, dla algorytmu:
+FCFS : 6095
+SSTF : 1300
+SCAN : 1148
+C-SCAN : 1440
+EDF : 6492
+FD-SCAN : 1478
+
+Liczba przesunięć głowicy dla 100 procesów,
+ z czasem najpóźniejszego przybycia1000
+ i wielkością dysku 300 bloków, dla algorytmu: 
+FCFS : 10526
+SSTF : 1439
+SCAN : 1285
+C-SCAN : 1495
+EDF : 10764
+FD-SCAN : 2003
+
+Liczba przesunięć głowicy dla 100 procesów,
+ z czasem najpóźniejszego przybycia1000
+ i wielkością dysku 180 bloków, dla algorytmu: 
+FCFS : 6308
+SSTF : 1159
+SCAN : 1165
+C-SCAN : 1095
+EDF : 5649
+FD-SCAN : 1394
+
+Liczba przesunięć głowicy dla 100 procesów,
+ z czasem najpóźniejszego przybycia1000
+ i wielkością dysku 300 bloków, dla algorytmu: 
+FCFS : 9877
+SSTF : 1281
+SCAN : 1253
+C-SCAN : 1221
+EDF : 10277
+FD-SCAN : 1583
+
